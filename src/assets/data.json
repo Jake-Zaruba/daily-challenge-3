@@ -1,0 +1,6 @@
+[
+  {
+    "key": "1",
+    "message": "Hello ${customerName}, Thank you for contacting ${productLine}. I understand how important it is to get you back into your account - I'll be happy to help! You can now sign in with your username and this temporary password: ${password}. If you have any further questions, please feel free to let me know! You can reach our support team at ${email}, or by calling ${phoneNumber}. Thank you for choosing J.J. Keller! Best, ${employeeName}."
+  }
+]
